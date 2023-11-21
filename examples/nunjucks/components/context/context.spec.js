@@ -1,4 +1,4 @@
-const { context } = require('@frctl/adapter-tests');
+const { context } = require('@dryfeld/adapter-tests');
 
 const fractal = require('../../fractal.config.js');
 

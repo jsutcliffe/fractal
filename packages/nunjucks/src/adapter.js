@@ -5,7 +5,7 @@ const Promise = require('bluebird');
 const nunjucks = require('nunjucks');
 const path = require('path');
 const fs = require('fs');
-const Adapter = require('@frctl/core').Adapter;
+const Adapter = require('@dryfeld/fractal-core').Adapter;
 
 class NunjucksAdapter extends Adapter {
     constructor(source, config, app) {

@@ -1,6 +1,6 @@
 'use strict';
 
-const Fractal = require('@frctl/core');
+const Fractal = require('@dryfeld/fractal-core');
 const _ = require('lodash');
 const Path = require('path');
 const utils = Fractal.utils;
@@ -13,7 +13,7 @@ class TwigAdapter extends Fractal.Adapter {
         this._config = config;
         this._loaderName = `fractal-${source.name}`;
 
-        source.set('engine', '@frctl/twig');
+        source.set('engine', '@dryfeld/fractal-twig');
 
         let self = this;
 

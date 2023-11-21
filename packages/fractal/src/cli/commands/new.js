@@ -5,9 +5,9 @@ const Path = require('path');
 const Handlebars = require('handlebars');
 const inquirer = require('inquirer');
 const execa = require('execa');
-const shell = require('@frctl/core').shell;
+const shell = require('@dryfeld/fractal-core').shell;
 const fs = require('fs-extra');
-const helpers = require('@frctl/core').utils;
+const helpers = require('@dryfeld/fractal-core').utils;
 
 module.exports = {
     command: 'new <path>',
@@ -84,7 +84,7 @@ module.exports = {
                 name: helpers.slugify(answers.projectTitle),
                 version: '0.1.0',
                 dependencies: {
-                    '@frctl/fractal': `^${fractal.get('version')}`,
+                    '@dryfeld/fractal': `^${fractal.get('version')}`,
                 },
                 scripts: {
                     'fractal:start': 'fractal start --sync',

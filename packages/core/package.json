@@ -1,18 +1,14 @@
 {
-  "name": "@frctl/core",
-  "version": "0.3.5",
-  "description": "Core module of Fractal.",
+  "name": "@dryfeld/fractal-core",
+  "version": "0.0.4",
+  "description": "Core module of Fractal (fork).",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frctl/fractal.git",
+    "url": "https://github.com/jsutcliffe/fractal.git",
     "directory": "packages/core"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/frctl/fractal/issues"
-  },
-  "homepage": "https://github.com/frctl/fractal/tree/main/packages/core",
   "dependencies": {
     "@allmarkedup/fang": "^2.0.0",
     "anymatch": "^3.1.2",
@@ -25,7 +21,7 @@
     "istextorbinary": "^5.15.0",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
-    "marked": "^2.0.3",
+    "marked": "^4.0.9",
     "minimist": "^1.2.5",
     "mixwith": "^0.1.1",
     "readable-stream": "^3.6.0"

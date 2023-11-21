@@ -1,10 +1,10 @@
 'use strict';
 
 const _ = require('lodash');
-const utils = require('@frctl/core').utils;
-const mix = require('@frctl/core').mixins.mix;
-const Configurable = require('@frctl/core').mixins.configurable;
-const Emitter = require('@frctl/core').mixins.emitter;
+const utils = require('@dryfeld/fractal-core').utils;
+const mix = require('@dryfeld/fractal-core').mixins.mix;
+const Configurable = require('@dryfeld/fractal-core').mixins.configurable;
+const Emitter = require('@dryfeld/fractal-core').mixins.emitter;
 const Server = require('./server');
 const Builder = require('./builder');
 const Theme = require('./theme');

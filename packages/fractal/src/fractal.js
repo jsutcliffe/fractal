@@ -3,10 +3,10 @@
 const _ = require('lodash');
 const Promise = require('bluebird');
 const defaults = require('../config');
-const utils = require('@frctl/core').utils;
-const mix = require('@frctl/core').mixins.mix;
-const Configurable = require('@frctl/core').mixins.configurable;
-const Emitter = require('@frctl/core/').mixins.emitter;
+const utils = require('@dryfeld/fractal-core').utils;
+const mix = require('@dryfeld/fractal-core').mixins.mix;
+const Configurable = require('@dryfeld/fractal-core').mixins.configurable;
+const Emitter = require('@dryfeld/fractal-core/').mixins.emitter;
 
 class Fractal extends mix(Configurable, Emitter) {
     /**
@@ -65,7 +65,7 @@ class Fractal extends mix(Configurable, Emitter) {
 
     get web() {
         if (!this._web) {
-            const Web = require('@frctl/web').Web;
+            const Web = require('@dryfeld/fractal-web').Web;
             this._web = new Web(this);
         }
         return this._web;
@@ -122,11 +122,11 @@ module.exports = create;
 
 module.exports.create = create;
 module.exports.Fractal = Fractal;
-module.exports.WebTheme = require('@frctl/web').Theme;
+module.exports.WebTheme = require('@dryfeld/fractal-web').Theme;
 module.exports.CliTheme = require('./cli/theme');
-module.exports.Adapter = require('@frctl/core').Adapter;
-module.exports.log = require('@frctl/core').Log;
-module.exports.utils = require('@frctl/core').utils;
+module.exports.Adapter = require('@dryfeld/fractal-core').Adapter;
+module.exports.log = require('@dryfeld/fractal-core').Log;
+module.exports.utils = require('@dryfeld/fractal-core').utils;
 
 module.exports.core = {
     Component: require('./api/components/component.js'),

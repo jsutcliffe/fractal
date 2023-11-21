@@ -10,7 +10,7 @@ module.exports = {
         version: null,
     },
     components: {
-        engine: require('@frctl/handlebars'),
+        engine: require('@dryfeld/fractal-handlebars'),
         path: null,
         label: 'components',
         title: 'Components',
@@ -61,7 +61,7 @@ module.exports = {
         },
     },
     docs: {
-        engine: require('@frctl/handlebars'),
+        engine: require('@dryfeld/fractal-handlebars'),
         path: null,
         label: 'documentation',
         title: 'Documentation',
@@ -103,7 +103,7 @@ module.exports = {
     },
     cli: {},
     web: {
-        theme: require('@frctl/mandelbrot')(),
+        theme: require('@dryfeld/fractal-mandelbrot')(),
         server: {
             sync: false,
             watch: false,
@@ -129,6 +129,6 @@ module.exports = {
         assets: {
             mount: 'assets',
         },
-        highlighter: require('@frctl/core').highlighter,
+        highlighter: require('@dryfeld/fractal-core').highlighter,
     },
 };

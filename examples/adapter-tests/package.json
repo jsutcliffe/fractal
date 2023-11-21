@@ -1,6 +1,5 @@
 {
-  "name": "@frctl/adapter-tests",
+  "name": "@dryfeld/adapter-tests",
   "version": "0.2.0",
-  "private": true,
   "main": "src/index.js"
 }

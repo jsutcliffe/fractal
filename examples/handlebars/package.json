@@ -1,18 +1,17 @@
 {
-  "name": "@frctl/handlebars-example",
+  "name": "@dryfeld/handlebars-example",
   "version": "0.3.12",
-  "private": true,
   "scripts": {
     "start": "fractal start --sync",
     "build": "fractal build"
   },
   "dependencies": {
-    "@frctl/fractal": "^1.5.15",
-    "@frctl/handlebars": "^1.2.15",
-    "@frctl/mandelbrot": "^1.10.3"
+    "@dryfeld/fractal": "^1.5.15",
+    "@dryfeld/handlebars": "^1.2.15",
+    "@dryfeld/mandelbrot": "^1.10.3"
   },
   "devDependencies": {
-    "@frctl/adapter-tests": "^0.2.0",
+    "@dryfeld/adapter-tests": "^0.2.0",
     "node-fetch": "^2.6.1"
   }
 }

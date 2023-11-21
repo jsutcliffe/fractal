@@ -7,7 +7,7 @@ const Table = require('cli-table3');
 const slog = require('log-update');
 const Theme = require('./theme');
 const defaultTheme = require('./themes/default');
-const utils = require('@frctl/core').utils;
+const utils = require('@dryfeld/fractal-core').utils;
 
 class Console {
     constructor(logger) {

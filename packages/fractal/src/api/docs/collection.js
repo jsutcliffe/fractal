@@ -1,6 +1,6 @@
 'use strict';
 
-const EntityCollection = require('@frctl/core').entities.Collection;
+const EntityCollection = require('@dryfeld/fractal-core').entities.Collection;
 
 module.exports = class DocCollection extends EntityCollection {
     constructor(config, items, parent) {

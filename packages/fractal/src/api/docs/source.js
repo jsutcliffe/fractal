@@ -7,9 +7,9 @@ const fs = require('fs-extra');
 const anymatch = require('anymatch');
 const DocCollection = require('./collection');
 const Doc = require('./doc');
-const EntitySource = require('@frctl/core').entities.Source;
-const resolver = require('@frctl/core').resolver;
-const md = require('@frctl/core').markdown;
+const EntitySource = require('@dryfeld/fractal-core').entities.Source;
+const resolver = require('@dryfeld/fractal-core').resolver;
+const md = require('@dryfeld/fractal-core').markdown;
 
 module.exports = class DocSource extends EntitySource {
     constructor(app) {

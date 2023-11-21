@@ -1,4 +1,4 @@
-const { Web } = require('@frctl/web');
+const { Web } = require('@dryfeld/fractal-web');
 
 const pkg = require('../package.json');
 const app = require('../src/fractal')();

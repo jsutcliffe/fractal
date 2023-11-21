@@ -2,9 +2,9 @@
 
 const _ = require('lodash');
 const { pathToRegexp, compile } = require('path-to-regexp');
-const mix = require('@frctl/core').mixins.mix;
-const Configurable = require('@frctl/core').mixins.configurable;
-const Emitter = require('@frctl/core').mixins.emitter;
+const mix = require('@dryfeld/fractal-core').mixins.mix;
+const Configurable = require('@dryfeld/fractal-core').mixins.configurable;
+const Emitter = require('@dryfeld/fractal-core').mixins.emitter;
 
 module.exports = class Theme extends mix(Configurable, Emitter) {
     constructor(viewPaths, options) {

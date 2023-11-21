@@ -4,12 +4,12 @@
  * Require the path module
  */
 const path = require('path');
-const mandelbrot = require('@frctl/mandelbrot');
+const mandelbrot = require('@dryfeld/fractal-mandelbrot');
 
 /*
  * Require the Fractal module
  */
-const fractal = (module.exports = require('@frctl/fractal').create());
+const fractal = (module.exports = require('@dryfeld/fractal').create());
 
 /*
  * Give your project a title.

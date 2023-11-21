@@ -1,8 +1,8 @@
-# @frctl/nunjucks
+# @dryfeld/nunjucks
 
 [Nunjucks](http://mozilla.github.io/nunjucks/) template engine adapter for [Fractal](http://github.com/frctl/fractal).
 
-[![NPM Version](https://img.shields.io/npm/v/@frctl/nunjucks)](https://www.npmjs.com/package/@frctl/nunjucks)
+[![NPM Version](https://img.shields.io/npm/v/@dryfeld/nunjucks)](https://www.npmjs.com/package/@dryfeld/nunjucks)
 
 ## 🚨 Breaking changes in v2.0
 
@@ -13,13 +13,13 @@
 ## Installation
 
 ```bash
-npm i @frctl/nunjucks --save
+npm i @dryfeld/nunjucks --save
 ```
 
 ## Usage
 
 ```javascript
-fractal.components.engine("@frctl/nunjucks"); // register the Nunjucks adapter for your components
+fractal.components.engine("@dryfeld/nunjucks"); // register the Nunjucks adapter for your components
 fractal.components.set("ext", ".njk"); // look for files with a .njk file extension
 ```
 
@@ -28,7 +28,7 @@ fractal.components.set("ext", ".njk"); // look for files with a .njk file extens
 If you want to register custom [filters](https://mozilla.github.io/nunjucks/api.html#custom-filters), global variables or [extensions](https://mozilla.github.io/nunjucks/api.html#custom-tags) to the underlying Nunjucks engine then you can configure an instance as follows:
 
 ```javascript
-const nunj = require("@frctl/nunjucks")({
+const nunj = require("@dryfeld/nunjucks")({
   env: {
     // Nunjucks environment opts: https://mozilla.github.io/nunjucks/api.html#configure
   },
@@ -51,7 +51,7 @@ fractal.components.engine(
 For example, to register the 'shorten' filter example from the [Nujucks docs](https://mozilla.github.io/nunjucks/api.html#custom-filters):
 
 ```javascript
-const nunj = require("@frctl/nunjucks")({
+const nunj = require("@dryfeld/nunjucks")({
   filters: {
     shorten: function(str, count) {
       return str.slice(0, count || 5);
@@ -77,7 +77,7 @@ By default, the Nunjucks adapter expects you to use the Fractal component `@hand
 However, if you wish to include (or extend) non-component templates, you can also specify a path (or an array of paths) of directories for Nunjucks to search in for non-component templates when configuring your Nunjucks instance. For example:
 
 ```javascript
-const nunj = require("@frctl/nunjucks")({
+const nunj = require("@dryfeld/nunjucks")({
   paths: ["path/to/files"]
 });
 ```

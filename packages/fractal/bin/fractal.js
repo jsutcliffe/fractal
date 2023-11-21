@@ -6,16 +6,11 @@ const Path = require('path');
 const semver = require('semver');
 const Liftoff = require('liftoff');
 const chalk = require('chalk');
-const updateNotifier = require('update-notifier');
 const cliPackage = require('../package.json');
-
-const notifier = updateNotifier({
-    pkg: cliPackage,
-});
 
 const FractalCli = new Liftoff({
     processTitle: 'fractal',
-    moduleName: '@frctl/fractal',
+    moduleName: '@dryfeld/fractal',
     configName: 'fractal',
     extensions: {
         '.config.js': null,
@@ -67,7 +62,7 @@ FractalCli.launch(config, function (env) {
      */
 
     if (scope === 'project') {
-        if (semver.lt(env.modulePackage.version, `1.0.0`)) {
+        if (semver.lt(env.modulePackage.version, `0.0.3`)) {
             // Project is using a legacy version of Fractal, load it the old way...
             console.log(
                 `Fractal version mismatch! Global: ${cliPackage.version} / Local: ${env.modulePackage.version}`
@@ -101,16 +96,6 @@ FractalCli.launch(config, function (env) {
     } else {
         // Global context
         app = require('../.').create();
-    }
-
-    /*
-     * Notify of any available updates on exit
-     */
-
-    if (notifier.update) {
-        process.on('exit', function () {
-            app.cli.notify.updateAvailable(notifier.update);
-        });
     }
 
     /*

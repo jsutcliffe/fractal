@@ -5,9 +5,9 @@ const anymatch = require('anymatch');
 const Path = require('path');
 const _ = require('lodash');
 const fs = require('fs-extra');
-const Log = require('@frctl/core').Log;
-const mix = require('@frctl/core').mixins.mix;
-const Emitter = require('@frctl/core').mixins.emitter;
+const Log = require('@dryfeld/fractal-core').Log;
+const mix = require('@dryfeld/fractal-core').mixins.mix;
+const Emitter = require('@dryfeld/fractal-core').mixins.emitter;
 const throat = require('throat');
 
 module.exports = class Builder extends mix(Emitter) {

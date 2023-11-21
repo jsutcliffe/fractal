@@ -4,12 +4,12 @@
  * Require the path module
  */
 const path = require('path');
-const mandelbrot = require('@frctl/mandelbrot');
+const mandelbrot = require('@dryfeld/fractal-mandelbrot');
 
 /*
  * Require the Fractal module
  */
-const fractal = (module.exports = require('@frctl/fractal').create());
+const fractal = (module.exports = require('@dryfeld/fractal').create());
 
 /*
  * Give your project a title.
@@ -21,13 +21,13 @@ fractal.set('project.title', 'Fractal Twig example');
  */
 fractal.components.set('path', path.join(__dirname, 'components'));
 fractal.components.set('ext', '.twig');
-fractal.components.engine(require('@frctl/twig'));
+fractal.components.engine(require('@dryfeld/twig'));
 
 /*
  * Tell Fractal where to look for documentation pages.
  */
 fractal.docs.set('path', path.join(__dirname, 'docs'));
-fractal.docs.engine(require('@frctl/twig'));
+fractal.docs.engine(require('@dryfeld/twig'));
 
 /*
  * Tell the Fractal web preview plugin where to look for static assets.

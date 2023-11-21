@@ -4,8 +4,8 @@ const Path = require('path');
 const Promise = require('bluebird');
 const matter = require('gray-matter');
 const _ = require('lodash');
-const utils = require('@frctl/core').utils;
-const Entity = require('@frctl/core').entities.Entity;
+const utils = require('@dryfeld/fractal-core').utils;
+const Entity = require('@dryfeld/fractal-core').entities.Entity;
 
 module.exports = class Doc extends Entity {
     constructor(config, content, parent) {

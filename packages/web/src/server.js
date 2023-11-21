@@ -8,10 +8,10 @@ const chokidar = require('chokidar');
 const Path = require('path');
 const getPort = require('get-port');
 const WebError = require('./error');
-const utils = require('@frctl/core').utils;
-const Log = require('@frctl/core').Log;
-const mix = require('@frctl/core').mixins.mix;
-const Emitter = require('@frctl/core').mixins.emitter;
+const utils = require('@dryfeld/fractal-core').utils;
+const Log = require('@dryfeld/fractal-core').Log;
+const mix = require('@dryfeld/fractal-core').mixins.mix;
+const Emitter = require('@dryfeld/fractal-core').mixins.emitter;
 
 module.exports = class Server extends mix(Emitter) {
     constructor(theme, engine, config, app) {

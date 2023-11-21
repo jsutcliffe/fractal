@@ -2,9 +2,9 @@
 
 const _ = require('lodash');
 const Path = require('path');
-const utils = require('@frctl/core').utils;
-const Data = require('@frctl/core').data;
-const Entity = require('@frctl/core').entities.Entity;
+const utils = require('@dryfeld/fractal-core').utils;
+const Data = require('@dryfeld/fractal-core').data;
+const Entity = require('@dryfeld/fractal-core').entities.Entity;
 const VariantCollection = require('../variants/collection');
 const AssetCollection = require('../assets/collection');
 const Asset = require('../assets/asset');

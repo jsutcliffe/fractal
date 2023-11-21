@@ -16,16 +16,16 @@
     <img src="https://img.shields.io/github/workflow/status/frctl/fractal/test/main" alt="">
   </a>
   <!-- NPM Version -->
-  <a href="https://www.npmjs.com/package/@frctl/fractal" title="Current version">
-    <img src="https://img.shields.io/npm/v/@frctl/fractal.svg" alt="">
+  <a href="https://www.npmjs.com/package/@dryfeld/fractal" title="Current version">
+    <img src="https://img.shields.io/npm/v/@dryfeld/fractal.svg" alt="">
   </a>
   <!-- Discord -->
   <a href="https://discord.gg/vuRz4Yx" title="Chat with us on Discord">
     <img src="https://img.shields.io/badge/discord-join-7289DA" alt="">
   </a>
   <!-- NPM Downloads -->
-  <a href="https://www.npmjs.com/package/@frctl/fractal" title="NPM monthly downloads">
-    <img src="https://img.shields.io/npm/dm/@frctl/fractal" alt="">
+  <a href="https://www.npmjs.com/package/@dryfeld/fractal" title="NPM monthly downloads">
+    <img src="https://img.shields.io/npm/dm/@dryfeld/fractal" alt="">
   </a>
   <!-- License -->
   <a href="https://github.com/frctl/fractal/blob/main/LICENSE" title="MIT license">

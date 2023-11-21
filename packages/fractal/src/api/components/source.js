@@ -10,10 +10,10 @@ const Component = require('./component');
 const ComponentCollection = require('./collection');
 const File = require('../files/file');
 const FileCollection = require('../files/collection');
-const frfs = require('@frctl/core').fs;
-const Log = require('@frctl/core').Log;
-const resolver = require('@frctl/core').resolver;
-const EntitySource = require('@frctl/core').entities.Source;
+const frfs = require('@dryfeld/fractal-core').fs;
+const Log = require('@dryfeld/fractal-core').Log;
+const resolver = require('@dryfeld/fractal-core').resolver;
+const EntitySource = require('@dryfeld/fractal-core').entities.Source;
 
 module.exports = class ComponentSource extends EntitySource {
     constructor(app) {

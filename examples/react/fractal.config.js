@@ -8,9 +8,9 @@ const path = require('path');
 /*
  * Require the Fractal module
  */
-const fractal = (module.exports = require('@frctl/fractal').create());
-const mandelbrot = require('@frctl/mandelbrot');
-const createReactAdapter = require('@frctl/react');
+const fractal = (module.exports = require('@dryfeld/fractal').create());
+const mandelbrot = require('@dryfeld/fractal-mandelbrot');
+const createReactAdapter = require('@dryfeld/fractal-react');
 const reactAdapter = createReactAdapter({
     wrapperElements: [
         {

@@ -26,6 +26,6 @@ Before submitting your issue, please ensure you have:
 
 ### Context
 
--   Fractal version: <!-- run `npm list @frctl/fractal` / `yarn list @frctl/fractal` -->
+-   Fractal version: <!-- run `npm list @dryfeld/fractal` / `yarn list @dryfeld/fractal` -->
 -   Node version: <!-- run `node -v` -->
 -   OS: <!-- Windows 10, MacOS 10.14.x, Ubuntu 20 -->

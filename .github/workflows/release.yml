@@ -15,7 +15,6 @@ jobs:
     - run: git config user.name github-actions
     - run: git config user.email github-actions@github.com
     - run: npm ci
-    - run: npm run bootstrap
     - run: npx lerna version --conventional-commits --create-release github --yes
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

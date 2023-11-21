@@ -4,14 +4,14 @@ An adapter to let you use React templates with Fractal. Not supported for docs.
 
 ## Installation
 ```
-npm install @frctl/react --save-dev
+npm install @dryfeld/react --save-dev
 ```
 
 ## Usage
 Require the adapter in your Fractal configuration file:
 ```js
 // Require the adapter factory:
-const createReactAdapter = require('@frctl/react');
+const createReactAdapter = require('@dryfeld/react');
 // Create the adapter instance:
 const reactAdapter = createReactAdapter({/* options */});
 // Register the adapter as engine:
@@ -23,7 +23,7 @@ fractal.components.engine(reactAdapter);
 The adapter exposes a React Context Provider component called PathProvider to allow usage of relative paths in static HTML exports. The rendered components and preview layouts are automatically wrapped with it.
 
 ```js
-const { PathProvider, PathContext, usePath } = require('@frctl/react/components');
+const { PathProvider, PathContext, usePath } = require('@dryfeld/react/components');
 
 const Button = (props) => {
   // use via useContext hook

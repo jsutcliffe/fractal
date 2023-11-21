@@ -1,9 +1,9 @@
 'use strict';
 
 const anymatch = require('anymatch');
-const mix = require('@frctl/core').mixins.mix;
-const Collection = require('@frctl/core').mixins.collection;
-const Stream = require('@frctl/core').PromiseStream;
+const mix = require('@dryfeld/fractal-core').mixins.mix;
+const Collection = require('@dryfeld/fractal-core').mixins.collection;
+const Stream = require('@dryfeld/fractal-core').PromiseStream;
 
 module.exports = class FileCollection extends mix(Collection) {
     constructor(config, items) {

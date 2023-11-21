@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.10.3](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.10.2...@frctl/mandelbrot@1.10.3) (2023-01-26)
+## [1.10.3](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.10.2...@dryfeld/mandelbrot@1.10.3) (2023-01-26)
 
 
 ### Bug Fixes
@@ -14,15 +14,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.10.2](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.10.1...@frctl/mandelbrot@1.10.2) (2022-08-17)
+## [1.10.2](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.10.1...@dryfeld/mandelbrot@1.10.2) (2022-08-17)
 
-**Note:** Version bump only for package @frctl/mandelbrot
-
-
+**Note:** Version bump only for package @dryfeld/mandelbrot
 
 
 
-## [1.10.1](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.10.0...@frctl/mandelbrot@1.10.1) (2022-02-01)
+
+
+## [1.10.1](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.10.0...@dryfeld/mandelbrot@1.10.1) (2022-02-01)
 
 
 ### Bug Fixes
@@ -33,7 +33,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.10.0](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.9.4...@frctl/mandelbrot@1.10.0) (2022-01-26)
+# [1.10.0](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.9.4...@dryfeld/mandelbrot@1.10.0) (2022-01-26)
 
 
 ### Bug Fixes
@@ -50,43 +50,43 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.9.4](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.9.3...@frctl/mandelbrot@1.9.4) (2021-07-20)
+## [1.9.4](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.9.3...@dryfeld/mandelbrot@1.9.4) (2021-07-20)
 
-**Note:** Version bump only for package @frctl/mandelbrot
-
-
-
-
-
-## [1.9.3](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.9.2...@frctl/mandelbrot@1.9.3) (2021-07-19)
-
-**Note:** Version bump only for package @frctl/mandelbrot
+**Note:** Version bump only for package @dryfeld/mandelbrot
 
 
 
 
 
-## [1.9.2](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.9.1...@frctl/mandelbrot@1.9.2) (2021-05-20)
+## [1.9.3](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.9.2...@dryfeld/mandelbrot@1.9.3) (2021-07-19)
 
-**Note:** Version bump only for package @frctl/mandelbrot
-
-
+**Note:** Version bump only for package @dryfeld/mandelbrot
 
 
 
-## [1.9.1](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.9.0...@frctl/mandelbrot@1.9.1) (2021-05-20)
+
+
+## [1.9.2](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.9.1...@dryfeld/mandelbrot@1.9.2) (2021-05-20)
+
+**Note:** Version bump only for package @dryfeld/mandelbrot
+
+
+
+
+
+## [1.9.1](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.9.0...@dryfeld/mandelbrot@1.9.1) (2021-05-20)
 
 
 ### Bug Fixes
 
-* **mandelbrot:** bump @frctl/fractal peerDependency minimum version ([#974](https://github.com/frctl/fractal/issues/974)) ([0b9dcdc](https://github.com/frctl/fractal/commit/0b9dcdc4b6689e0b1ba4a04d57862e927f249117))
-* **mandelbrot:** move @frctl/web from deps to devDeps ([#969](https://github.com/frctl/fractal/issues/969)) ([6bbcd34](https://github.com/frctl/fractal/commit/6bbcd34b5edae30c6f09cdf1a44aeb9094c19600))
+* **mandelbrot:** bump @dryfeld/fractal peerDependency minimum version ([#974](https://github.com/frctl/fractal/issues/974)) ([0b9dcdc](https://github.com/frctl/fractal/commit/0b9dcdc4b6689e0b1ba4a04d57862e927f249117))
+* **mandelbrot:** move @dryfeld/web from deps to devDeps ([#969](https://github.com/frctl/fractal/issues/969)) ([6bbcd34](https://github.com/frctl/fractal/commit/6bbcd34b5edae30c6f09cdf1a44aeb9094c19600))
 
 
 
 
 
-# [1.9.0](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.8.2...@frctl/mandelbrot@1.9.0) (2021-03-23)
+# [1.9.0](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.8.2...@dryfeld/mandelbrot@1.9.0) (2021-03-23)
 
 
 ### Features
@@ -97,23 +97,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.8.2](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.8.1...@frctl/mandelbrot@1.8.2) (2021-03-20)
+## [1.8.2](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.8.1...@dryfeld/mandelbrot@1.8.2) (2021-03-20)
 
-**Note:** Version bump only for package @frctl/mandelbrot
-
-
-
-
-
-## [1.8.1](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.8.0...@frctl/mandelbrot@1.8.1) (2021-02-14)
-
-**Note:** Version bump only for package @frctl/mandelbrot
+**Note:** Version bump only for package @dryfeld/mandelbrot
 
 
 
 
 
-# [1.8.0](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.7.0...@frctl/mandelbrot@1.8.0) (2021-02-07)
+## [1.8.1](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.8.0...@dryfeld/mandelbrot@1.8.1) (2021-02-14)
+
+**Note:** Version bump only for package @dryfeld/mandelbrot
+
+
+
+
+
+# [1.8.0](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.7.0...@dryfeld/mandelbrot@1.8.0) (2021-02-07)
 
 
 ### Bug Fixes
@@ -136,7 +136,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.7.0](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.6.0...@frctl/mandelbrot@1.7.0) (2020-12-22)
+# [1.7.0](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.6.0...@dryfeld/mandelbrot@1.7.0) (2020-12-22)
 
 
 ### Features
@@ -147,7 +147,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.6.0](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.5.1...@frctl/mandelbrot@1.6.0) (2020-11-03)
+# [1.6.0](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.5.1...@dryfeld/mandelbrot@1.6.0) (2020-11-03)
 
 
 ### Features
@@ -160,7 +160,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.5.1](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.5.0...@frctl/mandelbrot@1.5.1) (2020-10-19)
+## [1.5.1](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.5.0...@dryfeld/mandelbrot@1.5.1) (2020-10-19)
 
 
 ### Bug Fixes
@@ -172,7 +172,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.5.0](https://github.com/frctl/fractal/compare/@frctl/mandelbrot@1.4.0...@frctl/mandelbrot@1.5.0) (2020-10-15)
+# [1.5.0](https://github.com/frctl/fractal/compare/@dryfeld/mandelbrot@1.4.0...@dryfeld/mandelbrot@1.5.0) (2020-10-15)
 
 
 ### Bug Fixes

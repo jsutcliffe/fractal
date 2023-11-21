@@ -2,8 +2,8 @@
 
 const Path = require('path');
 const _ = require('lodash');
-const utils = require('@frctl/core').utils;
-const Entity = require('@frctl/core').entities.Entity;
+const utils = require('@dryfeld/fractal-core').utils;
+const Entity = require('@dryfeld/fractal-core').entities.Entity;
 
 module.exports = class Variant extends Entity {
     constructor(config, view, resources, parent) {

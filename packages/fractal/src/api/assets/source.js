@@ -2,10 +2,10 @@
 
 const Asset = require('./asset');
 const AssetCollection = require('./collection');
-const fs = require('@frctl/core').fs;
-const mix = require('@frctl/core').mixins.mix;
-const Source = require('@frctl/core').mixins.source;
-const Stream = require('@frctl/core').PromiseStream;
+const fs = require('@dryfeld/fractal-core').fs;
+const mix = require('@dryfeld/fractal-core').mixins.mix;
+const Source = require('@dryfeld/fractal-core').mixins.source;
+const Stream = require('@dryfeld/fractal-core').PromiseStream;
 
 module.exports = class AssetSource extends mix(Source) {
     constructor(name, config, app) {

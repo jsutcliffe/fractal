@@ -1,14 +1,14 @@
-# @frctl/twig
+# @dryfeld/twig
 
 [Twig](https://github.com/twigjs/twig.js) template enginge adapter for [Fractal](http://github.com/frctl/fractal).
 
-[![NPM Version](https://img.shields.io/npm/v/@frctl/twig)](https://www.npmjs.com/package/@frctl/twig)
+[![NPM Version](https://img.shields.io/npm/v/@dryfeld/twig)](https://www.npmjs.com/package/@dryfeld/twig)
 
 Requires Fractal v1.1.0 or greater.
 
 To install this adapter run this command:
 
-`npm install @frctl/twig`
+`npm install @dryfeld/twig`
 
 then open your fractal.js file and add following lines:
 
@@ -16,14 +16,14 @@ then open your fractal.js file and add following lines:
 /*
  * Require the Twig adapter
  */
-const twigAdapter = require('@frctl/twig')();
+const twigAdapter = require('@dryfeld/twig')();
 fractal.components.engine(twigAdapter);
 fractal.components.set('ext', '.twig');
 ```
 
 ## Using Twig for docs
 
-To use Twig for docs, set the docs engine to `@frctl/twig`:
+To use Twig for docs, set the docs engine to `@dryfeld/twig`:
 ```js
 fractal.docs.engine(twigAdapter);
 ```
@@ -34,7 +34,7 @@ fractal.docs.engine(twigAdapter);
 /*
  * Require the Twig adapter
  */
-const twigAdapter = require('@frctl/twig')({
+const twigAdapter = require('@dryfeld/twig')({
     // if pristine is set to true, bundled filters, functions, tests
     // and tags are not registered.
     // default is false

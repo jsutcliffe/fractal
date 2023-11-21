@@ -1,18 +1,17 @@
 {
-  "name": "@frctl/nunjucks-example",
+  "name": "@dryfeld/nunjucks-example",
   "version": "0.0.10",
-  "private": true,
   "scripts": {
     "start": "fractal start --sync",
     "build": "fractal build"
   },
   "dependencies": {
-    "@frctl/fractal": "^1.5.15",
-    "@frctl/mandelbrot": "^1.10.3",
-    "@frctl/nunjucks": "^2.0.15"
+    "@dryfeld/fractal": "^1.5.15",
+    "@dryfeld/mandelbrot": "^1.10.3",
+    "@dryfeld/nunjucks": "^2.0.15"
   },
   "devDependencies": {
-    "@frctl/adapter-tests": "^0.1.0",
+    "@dryfeld/adapter-tests": "^0.1.0",
     "node-fetch": "^2.6.1"
   }
 }

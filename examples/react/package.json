@@ -1,18 +1,17 @@
 {
-  "name": "@frctl/react-example",
+  "name": "@dryfeld/react-example",
   "version": "0.2.11",
-  "private": true,
   "scripts": {
     "start": "fractal start --sync",
     "build": "fractal build"
   },
   "dependencies": {
-    "@frctl/fractal": "^1.5.15",
-    "@frctl/mandelbrot": "^1.10.3",
-    "@frctl/react": "^0.3.7"
+    "@dryfeld/fractal": "^1.5.15",
+    "@dryfeld/mandelbrot": "^1.10.3",
+    "@dryfeld/react": "^0.3.7"
   },
   "devDependencies": {
-    "@frctl/adapter-tests": "^0.2.0",
+    "@dryfeld/adapter-tests": "^0.2.0",
     "node-fetch": "^2.6.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",

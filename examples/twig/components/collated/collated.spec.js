@@ -1,4 +1,4 @@
-const { collated } = require('@frctl/adapter-tests');
+const { collated } = require('@dryfeld/adapter-tests');
 
 const fractal = require('../../fractal.config.js');
 

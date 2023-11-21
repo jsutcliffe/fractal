@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.5](https://github.com/frctl/fractal/compare/@frctl/core@0.3.4...@frctl/core@0.3.5) (2022-08-17)
+## [0.3.5](https://github.com/frctl/fractal/compare/@dryfeld/core@0.3.4...@dryfeld/core@0.3.5) (2022-08-17)
 
 
 ### Bug Fixes
@@ -14,7 +14,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.4](https://github.com/frctl/fractal/compare/@frctl/core@0.3.3...@frctl/core@0.3.4) (2022-01-26)
+## [0.3.4](https://github.com/frctl/fractal/compare/@dryfeld/core@0.3.3...@dryfeld/core@0.3.4) (2022-01-26)
 
 
 ### Bug Fixes
@@ -25,7 +25,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.3](https://github.com/frctl/fractal/compare/@frctl/core@0.3.2...@frctl/core@0.3.3) (2021-07-20)
+## [0.3.3](https://github.com/frctl/fractal/compare/@dryfeld/core@0.3.2...@dryfeld/core@0.3.3) (2021-07-20)
 
 
 ### Bug Fixes
@@ -36,7 +36,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.2](https://github.com/frctl/fractal/compare/@frctl/core@0.3.1...@frctl/core@0.3.2) (2021-07-19)
+## [0.3.2](https://github.com/frctl/fractal/compare/@dryfeld/core@0.3.1...@dryfeld/core@0.3.2) (2021-07-19)
 
 
 ### Bug Fixes
@@ -48,7 +48,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/frctl/fractal/compare/@frctl/core@0.3.0...@frctl/core@0.3.1) (2021-05-20)
+## [0.3.1](https://github.com/frctl/fractal/compare/@dryfeld/core@0.3.0...@dryfeld/core@0.3.1) (2021-05-20)
 
 
 ### Performance Improvements
@@ -59,7 +59,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.3.0](https://github.com/frctl/fractal/compare/@frctl/core@0.2.4...@frctl/core@0.3.0) (2021-03-23)
+# [0.3.0](https://github.com/frctl/fractal/compare/@dryfeld/core@0.2.4...@dryfeld/core@0.3.0) (2021-03-23)
 
 
 ### Features
@@ -70,23 +70,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.4](https://github.com/frctl/fractal/compare/@frctl/core@0.2.3...@frctl/core@0.2.4) (2021-03-20)
+## [0.2.4](https://github.com/frctl/fractal/compare/@dryfeld/core@0.2.3...@dryfeld/core@0.2.4) (2021-03-20)
 
-**Note:** Version bump only for package @frctl/core
-
-
-
-
-
-## [0.2.3](https://github.com/frctl/fractal/compare/@frctl/core@0.2.2...@frctl/core@0.2.3) (2021-02-14)
-
-**Note:** Version bump only for package @frctl/core
+**Note:** Version bump only for package @dryfeld/core
 
 
 
 
 
-## [0.2.2](https://github.com/frctl/fractal/compare/@frctl/core@0.2.1...@frctl/core@0.2.2) (2021-02-07)
+## [0.2.3](https://github.com/frctl/fractal/compare/@dryfeld/core@0.2.2...@dryfeld/core@0.2.3) (2021-02-14)
+
+**Note:** Version bump only for package @dryfeld/core
+
+
+
+
+
+## [0.2.2](https://github.com/frctl/fractal/compare/@dryfeld/core@0.2.1...@dryfeld/core@0.2.2) (2021-02-07)
 
 
 ### Performance Improvements
@@ -97,7 +97,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.1](https://github.com/frctl/fractal/compare/@frctl/core@0.2.0...@frctl/core@0.2.1) (2020-12-22)
+## [0.2.1](https://github.com/frctl/fractal/compare/@dryfeld/core@0.2.0...@dryfeld/core@0.2.1) (2020-12-22)
 
 
 ### Bug Fixes
@@ -108,7 +108,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.2.0](https://github.com/frctl/fractal/compare/@frctl/core@0.1.1...@frctl/core@0.2.0) (2020-11-03)
+# [0.2.0](https://github.com/frctl/fractal/compare/@dryfeld/core@0.1.1...@dryfeld/core@0.2.0) (2020-11-03)
 
 
 ### Features
@@ -119,9 +119,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/frctl/fractal/compare/@frctl/core@0.1.0...@frctl/core@0.1.1) (2020-10-19)
+## [0.1.1](https://github.com/frctl/fractal/compare/@dryfeld/core@0.1.0...@dryfeld/core@0.1.1) (2020-10-19)
 
-**Note:** Version bump only for package @frctl/core
+**Note:** Version bump only for package @dryfeld/core
 
 
 

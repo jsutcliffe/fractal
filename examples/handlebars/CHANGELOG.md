@@ -3,31 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.3.12](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.11...@frctl/handlebars-example@0.3.12) (2023-01-26)
+## [0.3.12](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.11...@dryfeld/handlebars-example@0.3.12) (2023-01-26)
 
-**Note:** Version bump only for package @frctl/handlebars-example
-
-
-
-
-
-## [0.3.11](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.10...@frctl/handlebars-example@0.3.11) (2022-08-17)
-
-**Note:** Version bump only for package @frctl/handlebars-example
+**Note:** Version bump only for package @dryfeld/handlebars-example
 
 
 
 
 
-## [0.3.10](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.9...@frctl/handlebars-example@0.3.10) (2022-02-01)
+## [0.3.11](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.10...@dryfeld/handlebars-example@0.3.11) (2022-08-17)
 
-**Note:** Version bump only for package @frctl/handlebars-example
-
-
+**Note:** Version bump only for package @dryfeld/handlebars-example
 
 
 
-## [0.3.9](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.8...@frctl/handlebars-example@0.3.9) (2022-01-26)
+
+
+## [0.3.10](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.9...@dryfeld/handlebars-example@0.3.10) (2022-02-01)
+
+**Note:** Version bump only for package @dryfeld/handlebars-example
+
+
+
+
+
+## [0.3.9](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.8...@dryfeld/handlebars-example@0.3.9) (2022-01-26)
 
 
 ### Bug Fixes
@@ -38,15 +38,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.8](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.7...@frctl/handlebars-example@0.3.8) (2021-07-20)
+## [0.3.8](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.7...@dryfeld/handlebars-example@0.3.8) (2021-07-20)
 
-**Note:** Version bump only for package @frctl/handlebars-example
-
-
+**Note:** Version bump only for package @dryfeld/handlebars-example
 
 
 
-## [0.3.7](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.6...@frctl/handlebars-example@0.3.7) (2021-07-19)
+
+
+## [0.3.7](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.6...@dryfeld/handlebars-example@0.3.7) (2021-07-19)
 
 
 ### Bug Fixes
@@ -57,47 +57,47 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.6](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.5...@frctl/handlebars-example@0.3.6) (2021-07-12)
+## [0.3.6](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.5...@dryfeld/handlebars-example@0.3.6) (2021-07-12)
 
-**Note:** Version bump only for package @frctl/handlebars-example
-
-
-
-
-
-## [0.3.5](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.4...@frctl/handlebars-example@0.3.5) (2021-05-20)
-
-**Note:** Version bump only for package @frctl/handlebars-example
+**Note:** Version bump only for package @dryfeld/handlebars-example
 
 
 
 
 
-## [0.3.4](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.3...@frctl/handlebars-example@0.3.4) (2021-05-20)
+## [0.3.5](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.4...@dryfeld/handlebars-example@0.3.5) (2021-05-20)
 
-**Note:** Version bump only for package @frctl/handlebars-example
-
-
-
-
-
-## [0.3.3](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.2...@frctl/handlebars-example@0.3.3) (2021-03-23)
-
-**Note:** Version bump only for package @frctl/handlebars-example
+**Note:** Version bump only for package @dryfeld/handlebars-example
 
 
 
 
 
-## [0.3.2](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.1...@frctl/handlebars-example@0.3.2) (2021-03-20)
+## [0.3.4](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.3...@dryfeld/handlebars-example@0.3.4) (2021-05-20)
 
-**Note:** Version bump only for package @frctl/handlebars-example
-
-
+**Note:** Version bump only for package @dryfeld/handlebars-example
 
 
 
-## [0.3.1](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.3.0...@frctl/handlebars-example@0.3.1) (2021-02-14)
+
+
+## [0.3.3](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.2...@dryfeld/handlebars-example@0.3.3) (2021-03-23)
+
+**Note:** Version bump only for package @dryfeld/handlebars-example
+
+
+
+
+
+## [0.3.2](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.1...@dryfeld/handlebars-example@0.3.2) (2021-03-20)
+
+**Note:** Version bump only for package @dryfeld/handlebars-example
+
+
+
+
+
+## [0.3.1](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.3.0...@dryfeld/handlebars-example@0.3.1) (2021-02-14)
 
 
 ### Bug Fixes
@@ -108,7 +108,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.3.0](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.2.2...@frctl/handlebars-example@0.3.0) (2021-02-07)
+# [0.3.0](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.2.2...@dryfeld/handlebars-example@0.3.0) (2021-02-07)
 
 
 ### Features
@@ -119,7 +119,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.2](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.2.1...@frctl/handlebars-example@0.2.2) (2020-12-22)
+## [0.2.2](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.2.1...@dryfeld/handlebars-example@0.2.2) (2020-12-22)
 
 
 ### Bug Fixes
@@ -131,7 +131,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.1](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.2.0...@frctl/handlebars-example@0.2.1) (2020-11-13)
+## [0.2.1](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.2.0...@dryfeld/handlebars-example@0.2.1) (2020-11-13)
 
 
 ### Bug Fixes
@@ -142,7 +142,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.2.0](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.1.1...@frctl/handlebars-example@0.2.0) (2020-11-03)
+# [0.2.0](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.1.1...@dryfeld/handlebars-example@0.2.0) (2020-11-03)
 
 
 ### Bug Fixes
@@ -158,9 +158,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/frctl/fractal/compare/@frctl/handlebars-example@0.1.0...@frctl/handlebars-example@0.1.1) (2020-10-19)
+## [0.1.1](https://github.com/frctl/fractal/compare/@dryfeld/handlebars-example@0.1.0...@dryfeld/handlebars-example@0.1.1) (2020-10-19)
 
-**Note:** Version bump only for package @frctl/handlebars-example
+**Note:** Version bump only for package @dryfeld/handlebars-example
 
 
 

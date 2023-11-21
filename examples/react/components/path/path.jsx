@@ -1,6 +1,6 @@
 const React = require('react');
 
-const { usePath } = require('@frctl/react/components');
+const { usePath } = require('@dryfeld/react/components');
 
 const Path = () => {
     const path = usePath();

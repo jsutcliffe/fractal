@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.2.0](https://github.com/frctl/fractal/compare/@frctl/adapter-tests@0.1.0...@frctl/adapter-tests@0.2.0) (2021-02-14)
+# [0.2.0](https://github.com/frctl/fractal/compare/@dryfeld/adapter-tests@0.1.0...@dryfeld/adapter-tests@0.2.0) (2021-02-14)
 
 
 ### Bug Fixes

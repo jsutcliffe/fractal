@@ -4,7 +4,7 @@ const _ = require('lodash');
 const React = require('react');
 const ReactDOM = require('react-dom/server');
 
-const { Adapter, utils } = require('@frctl/core');
+const { Adapter, utils } = require('@dryfeld/fractal-core');
 
 const PathProvider = require('../components/path-provider');
 const clearModule = require('./clear-module');

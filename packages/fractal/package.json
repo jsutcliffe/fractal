@@ -1,24 +1,19 @@
 {
-  "name": "@frctl/fractal",
-  "version": "1.5.15",
-  "description": "A tool to help you build and document website component libraries and then integrate them into your projects.",
+  "name": "@dryfeld/fractal",
+  "version": "0.0.6",
+  "description": "A tool to help you build and document website component libraries and then integrate them into your projects (fork).",
   "main": "src/fractal.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frctl/fractal.git",
+    "url": "https://github.com/jsutcliffe/fractal.git",
     "directory": "packages/fractal"
   },
-  "author": "Mark Perkins <mark@clearleft.com> (http://clearleft.com/)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/frctl/fractal/issues"
-  },
-  "homepage": "https://github.com/frctl/fractal",
   "dependencies": {
-    "@frctl/core": "^0.3.5",
-    "@frctl/handlebars": "^1.2.15",
-    "@frctl/mandelbrot": "^1.10.3",
-    "@frctl/web": "^0.1.12",
+    "@dryfeld/fractal-core": "^0.0.4",
+    "@dryfeld/fractal-handlebars": "^0.0.4",
+    "@dryfeld/fractal-mandelbrot": "^0.0.4",
+    "@dryfeld/fractal-web": "^0.0.5",
     "anymatch": "^3.1.2",
     "bluebird": "^3.7.2",
     "chalk": "^4.1.1",
@@ -37,7 +32,6 @@
     "mime": "^2.5.2",
     "require-all": "^3.0.0",
     "semver": "^7.3.5",
-    "update-notifier": "^5.1.0",
     "vinyl": "^2.2.1",
     "vorpal": "^1.12.0"
   },
@@ -49,5 +43,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "update-notifier": "^7.0.0"
   }
 }

@@ -1,6 +1,6 @@
 'use strict';
 
-const markdown = require('@frctl/core').markdown;
+const markdown = require('@dryfeld/fractal-core').markdown;
 
 module.exports = function () {
     return {

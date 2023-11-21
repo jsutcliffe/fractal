@@ -3,39 +3,39 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.2.15](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.14...@frctl/handlebars@1.2.15) (2022-08-17)
+## [1.2.15](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.14...@dryfeld/handlebars@1.2.15) (2022-08-17)
 
-**Note:** Version bump only for package @frctl/handlebars
-
-
-
-
-
-## [1.2.14](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.13...@frctl/handlebars@1.2.14) (2022-01-26)
-
-**Note:** Version bump only for package @frctl/handlebars
+**Note:** Version bump only for package @dryfeld/handlebars
 
 
 
 
 
-## [1.2.13](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.12...@frctl/handlebars@1.2.13) (2021-07-20)
+## [1.2.14](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.13...@dryfeld/handlebars@1.2.14) (2022-01-26)
 
-**Note:** Version bump only for package @frctl/handlebars
-
-
-
-
-
-## [1.2.12](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.11...@frctl/handlebars@1.2.12) (2021-07-19)
-
-**Note:** Version bump only for package @frctl/handlebars
+**Note:** Version bump only for package @dryfeld/handlebars
 
 
 
 
 
-## [1.2.11](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.10...@frctl/handlebars@1.2.11) (2021-07-12)
+## [1.2.13](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.12...@dryfeld/handlebars@1.2.13) (2021-07-20)
+
+**Note:** Version bump only for package @dryfeld/handlebars
+
+
+
+
+
+## [1.2.12](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.11...@dryfeld/handlebars@1.2.12) (2021-07-19)
+
+**Note:** Version bump only for package @dryfeld/handlebars
+
+
+
+
+
+## [1.2.11](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.10...@dryfeld/handlebars@1.2.11) (2021-07-12)
 
 
 ### Bug Fixes
@@ -46,31 +46,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.10](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.9...@frctl/handlebars@1.2.10) (2021-05-20)
+## [1.2.10](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.9...@dryfeld/handlebars@1.2.10) (2021-05-20)
 
-**Note:** Version bump only for package @frctl/handlebars
-
-
-
-
-
-## [1.2.9](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.8...@frctl/handlebars@1.2.9) (2021-03-23)
-
-**Note:** Version bump only for package @frctl/handlebars
+**Note:** Version bump only for package @dryfeld/handlebars
 
 
 
 
 
-## [1.2.8](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.7...@frctl/handlebars@1.2.8) (2021-03-20)
+## [1.2.9](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.8...@dryfeld/handlebars@1.2.9) (2021-03-23)
 
-**Note:** Version bump only for package @frctl/handlebars
-
-
+**Note:** Version bump only for package @dryfeld/handlebars
 
 
 
-## [1.2.7](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.6...@frctl/handlebars@1.2.7) (2021-02-14)
+
+
+## [1.2.8](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.7...@dryfeld/handlebars@1.2.8) (2021-03-20)
+
+**Note:** Version bump only for package @dryfeld/handlebars
+
+
+
+
+
+## [1.2.7](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.6...@dryfeld/handlebars@1.2.7) (2021-02-14)
 
 
 ### Bug Fixes
@@ -81,15 +81,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.6](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.5...@frctl/handlebars@1.2.6) (2021-02-07)
+## [1.2.6](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.5...@dryfeld/handlebars@1.2.6) (2021-02-07)
 
-**Note:** Version bump only for package @frctl/handlebars
-
-
+**Note:** Version bump only for package @dryfeld/handlebars
 
 
 
-## [1.2.5](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.4...@frctl/handlebars@1.2.5) (2020-12-22)
+
+
+## [1.2.5](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.4...@dryfeld/handlebars@1.2.5) (2020-12-22)
 
 
 ### Bug Fixes
@@ -100,7 +100,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.4](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.3...@frctl/handlebars@1.2.4) (2020-11-13)
+## [1.2.4](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.3...@dryfeld/handlebars@1.2.4) (2020-11-13)
 
 
 ### Bug Fixes
@@ -111,7 +111,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.3](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.2...@frctl/handlebars@1.2.3) (2020-11-03)
+## [1.2.3](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.2...@dryfeld/handlebars@1.2.3) (2020-11-03)
 
 
 ### Bug Fixes
@@ -122,15 +122,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.2.2](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.1...@frctl/handlebars@1.2.2) (2020-10-19)
+## [1.2.2](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.1...@dryfeld/handlebars@1.2.2) (2020-10-19)
 
-**Note:** Version bump only for package @frctl/handlebars
-
-
+**Note:** Version bump only for package @dryfeld/handlebars
 
 
 
-## [1.2.1](https://github.com/frctl/fractal/compare/@frctl/handlebars@1.2.0...@frctl/handlebars@1.2.1) (2020-10-15)
+
+
+## [1.2.1](https://github.com/frctl/fractal/compare/@dryfeld/handlebars@1.2.0...@dryfeld/handlebars@1.2.1) (2020-10-15)
 
 
 ### Bug Fixes

@@ -7,11 +7,11 @@ const Vorpal = require('vorpal');
 const Console = require('./console');
 const Notifier = require('./notifier');
 const requireAll = require('require-all');
-const Log = require('@frctl/core').Log;
-const mix = require('@frctl/core').mixins.mix;
-const Configurable = require('@frctl/core').mixins.configurable;
-const Emitter = require('@frctl/core').mixins.emitter;
-const utils = require('@frctl/core').utils;
+const Log = require('@dryfeld/fractal-core').Log;
+const mix = require('@dryfeld/fractal-core').mixins.mix;
+const Configurable = require('@dryfeld/fractal-core').mixins.configurable;
+const Emitter = require('@dryfeld/fractal-core').mixins.emitter;
+const utils = require('@dryfeld/fractal-core').utils;
 
 class Cli extends mix(Configurable, Emitter) {
     constructor(app) {

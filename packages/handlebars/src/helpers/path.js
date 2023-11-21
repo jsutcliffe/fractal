@@ -2,7 +2,7 @@
 
 const Handlebars = require('handlebars');
 const _ = require('lodash');
-const utils = require('@frctl/core').utils;
+const utils = require('@dryfeld/fractal-core').utils;
 
 module.exports = function (fractal) {
     return function staticPath(path) {

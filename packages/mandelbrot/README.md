@@ -1,8 +1,8 @@
-# @frctl/mandelbrot
+# @dryfeld/mandelbrot
 
 The default web UI theme for [Fractal](http://github.com/frctl/fractal).
 
-[![NPM Version](https://img.shields.io/npm/v/@frctl/mandelbrot)](https://www.npmjs.com/package/@frctl/mandelbrot)
+[![NPM Version](https://img.shields.io/npm/v/@dryfeld/mandelbrot)](https://www.npmjs.com/package/@dryfeld/mandelbrot)
 
 See the Fractal [documentation](https://fractal.build/guide) for details on [configuration and usage](https://fractal.build/guide/web/default-theme.html).
 

@@ -4,7 +4,7 @@ const _ = require('lodash');
 const Path = require('path');
 const VinylFile = require('vinyl');
 const mime = require('mime');
-const utils = require('@frctl/core').utils;
+const utils = require('@dryfeld/fractal-core').utils;
 
 module.exports = class File {
     constructor(file, relativeTo) {
